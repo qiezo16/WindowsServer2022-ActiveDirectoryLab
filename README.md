@@ -25,7 +25,21 @@ This project sets up a full Active Directory environment on Windows Server 2022 
 
 ##  Screenshots
 
-> Included in `screenshots/` folder or as issues/comments on this repo
+#### PowerShell User Script
+![PowerShell Script](./Powershell%20User%20script.jpg)
+
+#### Finance Department Users
+![Finance Users](./Finance%20Users.jpg)
+
+#### IT Department Users
+![IT Users](./IT%20Users.jpg)
+
+#### HR Department Users
+![HR Users](./HR%20Users.jpg)
+
+#### Group Policy Objects (GPOs)
+![Policies](./Policies.jpg)
+
 
 
 ##  How to Use
